@@ -6,10 +6,11 @@ To use this program, you will need to obtain an API key from CoinAPI. This key i
 
 ## Install
 This project requires Python and the following Python libraries installed:
-[NumPy](http://www.numpy.org/)
-[Pandas](http://pandas.pydata.org/)
-[matplotlib](http://matplotlib.org/)
-[scikit-learn](http://scikit-learn.org/stable/)
+[NumPy](http://www.numpy.org/)  
+[Pandas](http://pandas.pydata.org/)  
+[matplotlib](http://matplotlib.org/)  
+[scikit-learn](http://scikit-learn.org/stable/)  
+
 
 ## Logistic Regression Model
 The logistic regression model is used to make predictions about future prices. This model is trained using historical price data and makes predictions based on that information.
@@ -18,7 +19,8 @@ The logistic regression model is used to make predictions about future prices. T
 The actual prices and predicted prices are visualized using matplotlib. This allows for easy comparison between the two and helps to assess the accuracy of the predictions.
 
 ## Run
-In a terminal or command window, navigate to the directory that contains the file crypto_pred.py and run the following command:
+In a terminal or command window, navigate to the directory that contains the file crypto_pred.py and run the following command:  
+
 `python crypto_pred.py`
 
 ## Future Improvements
