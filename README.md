@@ -5,7 +5,7 @@ This is my first data science and machine learning project using python. The pro
 To use this program, you will need to obtain an API key from CoinAPI. This key is used to access the price history data for the cryptocurrency of your choice.
 
 ## Install
-This project requires Python and the following Python libraries installed:
+This project requires Python and the following Python libraries installed:  
 [NumPy](http://www.numpy.org/)  
 [Pandas](http://pandas.pydata.org/)  
 [matplotlib](http://matplotlib.org/)  
